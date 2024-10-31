@@ -1,6 +1,6 @@
 # Loaner-Calculator
 
-Calculate the loaner fee based on the starting and ending date, using $5 as the fee
+Calculate the loaner fee based on the starting and ending date, using $5 as the fee 
 
 To run the script make sure that you have python3.13 installed
 
